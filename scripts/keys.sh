@@ -1,0 +1,1 @@
+cat ~/.ssh/keys.pub >> ~/.ssh/authorized_keys
