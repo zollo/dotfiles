@@ -1,0 +1,8 @@
+[user]
+	signingkey = 8D28AB31602EE3F9
+	name = Joe Zollo
+	email = joseph@zollo.net
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg
